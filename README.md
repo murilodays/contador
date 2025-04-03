@@ -1,6 +1,6 @@
 # Contador Simples
 
-Bem-vindo ao repositório do **Contador Simples**! Este projeto foi desenvolvido como parte de um projeto acadêmico utilizando **Kotlin** para criar um aplicativo Android que permite incrementar e decrementar um contador.
+Bem-vindo ao repositório do **Contador Simples**! Este projeto foi desenvolvido como parte de uma atividade acadêmico utilizando **Kotlin** para criar um aplicativo Android que permite incrementar e decrementar um contador.
 
 ## Tecnologias Utilizadas
 
