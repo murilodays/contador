@@ -50,7 +50,6 @@ A interface foi projetada para ser intuitiva, apresentando um contador no centro
 ## Melhorias Futuras
 
 - Adicionar um botão para resetar o contador.
-- Implementar um sistema de armazenamento para salvar o valor do contador entre sessões.
 - Melhorar o design da interface para torná-la mais atraente.
 
 ## Entre em Contato Comigo
